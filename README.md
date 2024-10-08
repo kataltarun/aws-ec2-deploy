@@ -5,7 +5,7 @@
 3. curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
 4. source ~/.bashrc
 5. nvm install node
-6. git clone your-repo
+6. git clone your-repo(or use https://github.com/hkirat/landing-page-next)
 7. cd your-repo
 8. npm i
 9. npm run build
